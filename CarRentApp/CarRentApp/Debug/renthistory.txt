@@ -1,0 +1,6 @@
+Jan;Kowalski;Pesel:1234567890;Tel:515031512;P0_SUPRA;Dni:4;Kwota:1400;DzienStartUnix:0;DzienKoncaUnix:19012
+Klaudia;Kozakiewicz;Pesel:14215243135;Tel:412536213;PO_KZ512;Dni:1;Kwota:250;DzienStartUnix:0;DzienKoncaUnix:19000
+Janusz;Jankowski;Pesel:1153513513;Tel:123654798;ZCH_12345;Dni:1;Kwota:50;DzienStartUnix:0;DzienKoncaUnix:19004
+Sebastian;Kresik;Pesel:14251315351;Tel:515155115;PO_SPEED;Dni:1;Kwota:200;DzienStartUnix:0;DzienKoncaUnix:19005
+Jakub;Kowalski;Pesel:351935131;Tel:153513544;PO_JD531;Dni:10;Kwota:3000;DzienStartUnix:0;DzienKoncaUnix:19007
+Przyklad;Przyklad;Pesel:1312553215321;Tel:123456789;PO_KZ421;Dni:14;Kwota:4200;DzienStartUnix:0;DzienKoncaUnix:19015

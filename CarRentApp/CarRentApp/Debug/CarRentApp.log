@@ -1,0 +1,15 @@
+﻿  Rent.cpp
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(16,17): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(25,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(73,16): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(87,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(137,79): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(154,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(160,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(221,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(223,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(227,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(290,20): warning C4244: "return": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(294,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Rent.cpp(312,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  CarRentApp.vcxproj -> C:\Users\Gracjan\Desktop\CarRentApp\CarRentApp\Debug\CarRentApp.exe
